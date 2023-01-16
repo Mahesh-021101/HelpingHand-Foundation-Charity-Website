@@ -1,4 +1,6 @@
-# HelpingHand-Foundation-Charity-Website
+# HelpingHand Foundation-Charity Website
+
+This is the website that was submitted for <strong>The Sparks Foundation's</strong> payment gateway integration task. The goal of this website is to persuade visitors to make donations in support of underprivileged children. PHPMailer, CSS, and PHP are all used in the development of the website.
 
 Website : https://helpinghand-foundation.000webhostapp.com/
 
