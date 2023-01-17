@@ -4,7 +4,7 @@ This is the website that was submitted for <strong>The Sparks Foundation's</stro
 
 Website : https://helpinghand-foundation.000webhostapp.com/
 
-LinkedIn : 
+LinkedIn : https://www.linkedin.com/posts/mahesh-boopathy-1bba5318b_internship-webdevelopment-gripjanuary23-activity-7020871578468970496-i5tb?utm_source=share&utm_medium=member_desktop
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/94131602/212763946-e9deffaa-502c-4a6f-a0c1-3625a7bf1f1d.png">
 
